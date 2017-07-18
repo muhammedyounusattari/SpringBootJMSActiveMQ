@@ -1,0 +1,5 @@
+younus/attari/client/JMSClient.class
+younus/attari/consumer/JMSConsumer.class
+younus/attari/config/SpringConfigurationMain.class
+younus/attari/client/impl/JMSClientImpl.class
+younus/attari/producer/JMSProducer.class
